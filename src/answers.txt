@@ -1,4 +1,0 @@
-Exercice 2:
-
-3. Si la taille du buffer (client) est inférieure à la taille du fichier alors une erreur apparait.
-Si le buffer client est suffisant mais que le buffer serveur est trop petit alors une erreur est donnée au client. Le serveur ne traite simplement pas le message.
